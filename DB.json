@@ -1,9 +1,11 @@
-
 [
   {
     "Owner": "6289518363262",
-    "Email": "didin@gmail.com",
-    "Key": "didinmue",
-    "NomorBot": ["6289518363262"]
+    "NomorBot": [
+      "6289518363262"
+    ],
+    "Access": true,
+    "Email": "didinmue@gmail.com",
+    "Key": "inces"
   }
 ]
